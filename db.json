@@ -1,6 +1,5 @@
- "posts": [
 {  
-   "assets":[  
+   "posts":[  
       {  
          "name":"Name",
          "latitude":"43.88269",
@@ -11,4 +10,4 @@
    "colorCodes":{  
       "MG500422":"#2456E7"
    }
-}]
+}
