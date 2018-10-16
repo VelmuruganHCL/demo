@@ -8,14 +8,14 @@
          "color":"#2456E7"
       },
       {  
-         "id": 1,
+         "id": 2,
          "name":"Name1",
          "latitude":"42.88269",
          "longitude":"-73.41006",
          "color":"#000000"
       },
       {  
-         "id": 1,
+         "id": 3,
          "name":"Name2",
          "latitude":"41.88269",
          "longitude":"-73.41006",
