@@ -6,9 +6,20 @@
          "latitude":"43.88269",
          "longitude":"-73.41006",
          "color":"#2456E7"
+      },
+      {  
+         "id": 1,
+         "name":"Name1",
+         "latitude":"42.88269",
+         "longitude":"-73.41006",
+         "color":"#000000"
+      },
+      {  
+         "id": 1,
+         "name":"Name2",
+         "latitude":"41.88269",
+         "longitude":"-73.41006",
+         "color":"#929292"
       }
-   ],
-   "colorCodes":{  
-      "MG500422":"#2456E7"
-   }
+   ]
 }
